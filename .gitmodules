@@ -1,0 +1,12 @@
+[submodule "submodules/diff_gh_surfel_rasterization"]
+	path = submodules/diff_gh_surfel_rasterization
+	url = https://github.com/AuroraRyan0301/2DGHKernel.git
+[submodule "submodules/diff-ges-surfel-rasterization"]
+	path = submodules/diff-ges-surfel-rasterization
+	url = https://github.com/AuroraRyan0301/2DGESKernel.git
+[submodule "submodules/diff-surfel-rasterization-original"]
+	path = submodules/diff-surfel-rasterization-original
+	url = https://github.com/AuroraRyan0301/original-2dgs.git
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git

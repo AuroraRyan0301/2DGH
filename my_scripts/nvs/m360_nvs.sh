@@ -1,0 +1,1 @@
+python scripts/m360_eval_original_init.py -m360 /path/to/m360

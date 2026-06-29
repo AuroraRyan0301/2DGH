@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+.eggs/
+
+# Build artifacts
+build/
+dist/
+*.so
+*.o
+
+# Logs / images / data
+*.log
+*.png
+*.exr
+output/
+data/
+
+# Editor / tooling
+.sii/
+.vscode/
+.idea/

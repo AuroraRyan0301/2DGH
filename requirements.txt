@@ -1,0 +1,7 @@
+git+https://github.com/facebookresearch/pytorch3d.git@stable
+git+https://github.com/otaheri/chamfer_distance
+
+-e ./submodules/diff-ges-surfel-rasterization
+-e ./submodules/diff-surfel-rasterization-original
+-e ./submodules/diff_gh_surfel_rasterization
+-e ./submodules/simple-knn
